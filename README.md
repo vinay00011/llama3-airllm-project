@@ -75,7 +75,7 @@ pip install -r requirements.txt
 Run the model:
 
 ```bash
-python main.py
+python run_llama3.py
 ```
 
 ### 💡 Example Code
