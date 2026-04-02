@@ -103,7 +103,9 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ```bash
 pip install torch torchvision torchaudio
 ```
-
+### 4️⃣ Install PyTorch
+If error is no module named pytorch
+pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0
 ---
 
 ### 5️⃣ Install All Dependencies
